@@ -1,0 +1,15 @@
+Generated Xcode project: 57 objects
+Project metadata and Swift syntax: OK
+calendar: TZ=Europe/Madrid
+AgendaMath: all calendar, overlap, overnight, all-day and DST checks passed.
+calendar: TZ=UTC
+AgendaMath: all calendar, overlap, overnight, all-day and DST checks passed.
+conversation: TZ=Europe/Madrid
+AgendaConversationTests: referencias, cancelación, días completos, huecos y orden de lotes correctos.
+conversation: TZ=UTC
+AgendaConversationTests: referencias, cancelación, días completos, huecos y orden de lotes correctos.
+voice: TZ=Europe/Madrid
+Voice turn and endpoint policy tests passed.
+voice: TZ=UTC
+Voice turn and endpoint policy tests passed.
+Núcleo verificado. iOS NO compilado; voz, SwiftUI, EventKit y widget pendientes de pruebas en iPhone.

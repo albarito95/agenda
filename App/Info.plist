@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CFBundleDisplayName</key><string>Agenda</string>
+    <key>CFBundleExecutable</key><string>$(EXECUTABLE_NAME)</string>
+    <key>CFBundleIdentifier</key><string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+    <key>CFBundleName</key><string>$(PRODUCT_NAME)</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>0.2.0</string>
+    <key>CFBundleVersion</key><string>2</string>
+    <key>LSRequiresIPhoneOS</key><true/>
+    <key>NSCalendarsFullAccessUsageDescription</key><string>Agenda muestra tus citas y permite organizarlas con tus indicaciones. El asistente funciona en tu iPhone.</string>
+    <key>NSMicrophoneUsageDescription</key><string>Agenda escucha tu petición cuando abres el asistente por voz. La captura se detiene al cerrar el asistente.</string>
+    <key>NSSpeechRecognitionUsageDescription</key><string>Agenda convierte tu voz en texto en el iPhone para organizar tus citas, sin enviar el audio a una API externa.</string>
+    <key>CFBundleURLTypes</key><array><dict><key>CFBundleURLName</key><string>MiAgenda</string><key>CFBundleURLSchemes</key><array><string>miagenda</string></array></dict></array>
+    <key>UILaunchScreen</key><dict/>
+    <key>UIApplicationSceneManifest</key><dict><key>UIApplicationSupportsMultipleScenes</key><false/></dict>
+</dict></plist>
